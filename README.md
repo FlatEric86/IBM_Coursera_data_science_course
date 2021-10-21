@@ -3,6 +3,6 @@ This repo refers to the IBM Data Science Course on Coursera
 
 ## Edditing the file
 
-Some borring new lines...
+A new borring new lines...
 
 
