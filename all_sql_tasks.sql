@@ -43,7 +43,7 @@ SELECT SUM(PAYLOAD_MASS__KG_) FROM SpaceX WHERE Customer="NASA (CRS)";
 -- +--------------------------+
 -- | COUNT(PAYLOAD_MASS__KG_) |
 -- +--------------------------+
--- |                       20 |
+-- |                   45.596 |
 -- +--------------------------+
 
 
